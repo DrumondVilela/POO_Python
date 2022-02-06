@@ -1,1 +1,1 @@
-# POO_Python
+# Exercícios de Programação Orientada a Objetos em Python.
